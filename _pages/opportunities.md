@@ -26,5 +26,5 @@ You may also want to think/read about how to choose an advisor. There is a lot o
 
 * B. A. Barres, on “How to Pick a Graduate Advisor“
 
-Although addressed to neuroscience graduate students the advice is remarkably portable (lab rotations  &rarr; projects, NIH  &rarr; national/international grant giving agency, etc.)
+Although addressed to neuroscience graduate students the advice is remarkably portable (lab rotations  &rarr; projects, NIH  &rarr; national or international grant giving agency, etc.)
 
