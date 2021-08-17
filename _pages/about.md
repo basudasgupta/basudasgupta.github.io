@@ -14,6 +14,9 @@ permalink: /about/
 </figure>
 {:/}
     
+<div class="lead lead-about">Let's face it, it's awkward to write about oneself. Here goes ...
+</div>    
+    
 ## Brief Bio
     
 Basudeb Dasgupta is a theoretical physicist at the Tata Institute of Fundamental Research in Mumbai. His research interests are in the area of astroparticle physics. For his contributions to neutrino and dark matter physics, he won the ICTP Prize in 2019. 
