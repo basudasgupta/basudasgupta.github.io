@@ -7,7 +7,8 @@ $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fafaf8;
 
-$blue:                      #4072AF;
+$blue:                      #800000;
+// changed to maroon have to change names
 $light-blue:                lighten($blue, 45%);
 $dark-blue:                 darken($blue, 20%);
 
@@ -16,8 +17,8 @@ $ligt-yellow:               #fcf8e3;
 $red:                       #bd4147;
 
 // COLORS - BRAND ------------------
-$brand-color:               $red;
-$brand-light-color:         $pink;
+$brand-color:               $blue;
+$brand-light-color:         $light-blue;
 $brand-secondary:           $gray-dark;
 $text-muted:                $gray-light;
 
