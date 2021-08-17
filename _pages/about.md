@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About BAsu
-subtitle: I am a smart heading.
+subtitle: I am a very smart heading.
 desc: About me.
 permalink: /about/
 ---
