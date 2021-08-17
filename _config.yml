@@ -1,11 +1,11 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
+title: Basudeb Dasgupta               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 
 url: http://jackal.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -32,11 +32,11 @@ navigation:
   - title: Articles
     url: /articles/
     desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
+  - title: Teaching
+    url: /teaching/
     desc: Stuffs I like to do
-  - title: Work
-    url: /work/
+  - title: Research
+    url: /research/
     desc: Stuffs I hate to do
   - title: About
     url: /about/
