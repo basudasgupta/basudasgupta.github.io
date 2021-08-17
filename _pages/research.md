@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Project
+title: Research
 permalink: /research/
-subtitle: Sample work
+subtitle: Research
 ---
+
+## Astroparticle physics
+
+The main idea behind most of my work is that many features of stars, galaxies, and the Universe are intimately tied to the behavior of their tiniest constituents, i.e., atoms and subatomic particles. One can discover more about one by studying the other. I use this basic principle to understand stars, galaxies, the early Universe, neutrinos, dark matter, black holes, etc.
 
 ## Liber orbes sternentemque nunc mortalia rotae supplex
 
