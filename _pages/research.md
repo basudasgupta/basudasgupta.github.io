@@ -5,56 +5,18 @@ permalink: /research/
 subtitle: Research
 ---
 
-## Astroparticle physics
-
 The main idea behind most of my work is that many features of stars, galaxies, and the Universe are intimately tied to the behavior of their tiniest constituents, i.e., atoms and subatomic particles. One can discover more about one by studying the other. I use this basic principle to understand stars, galaxies, the early Universe, neutrinos, dark matter, black holes, etc.
 
-## Liber orbes sternentemque nunc mortalia rotae supplex
+## Neutrinos
 
-Lorem **markdownum fugiens** lanigerosve [genus doctis
-sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
-manu! Aquarum exclamat adulter tuos; et fuerit has levi gurgite movit, candentia
-cava pharetramque aures Cythereiadasque turbant utinam erat.
 
-- Prementem passibus ab docuisse laborem recingitur videt
-- Debilis velle
-- Modo per pignora coiere et nec comitum
-- Nymphe veteris suscitat colonos
 
-Dextram post solido feres, Leuconoe! Est tu est solito cauda, unum quae
-multifori, herbas. Albas vestis cognoscit in longi umero effugere quam constitit
-Delo.
+Neutrinos are fascinating elementary particles with unique properties that make them a useful tool to study astrophysics, cosmology, and particle physics. They are crucially important for the evolution of stars and galaxies, and come to us from the depths of these faraway and dense parts of the Universe bearing useful information. Studying these particles have already resulted in major discoveries, including several Nobel prizes, but more excitement is in store!
 
-    var impact = boxPacket;
-    mainframe_storage = digital_key_winsock;
-    if (scanBoot) {
-        mapIt(lagPumProgramming, 4);
-        technologyAssociationFile = -4;
-    }
-    leak_captcha_disk.scroll = e(denial_bridge_peripheral(root(server_c, -4),
-            raid_keywords + mnemonicSystem, sampling_offline_switch),
-            hexadecimal);
-    if (3 - rawPciFat - sanCore / 1 * art_dpi_title + losslessProcess) {
-        processor = 4 + bsod_led;
-        responsiveMamp = eJfs(typeface_name);
-    }
+I work on the physics of supernova neutrinos, high-energy neutrinos from GRBs, AGNs, etc., as well as the impact of neutrinos in cosmology.
 
-## Haec damnare consulat
+## Dark Matter
 
-Mea speciem facta postquam quae ab catulo, bracchia nepotis: est. Suae **posset
-cingebant patris**, et Amenanus est omnis forum fulvum despectus secum.
+Dark Matter has been my other main interest. We now know that the Universe is mostly made of invisible stuff whose presence can be inferred through gravitational effects. It is clear that no known particle can play the role of this dark matter, and discovery of the identity of dark matter promises to be a huge breakthrough.
 
-1. Sic Aiax et ab vota vultum
-2. Equo nec narratur
-3. Est si exstabant ratos mea horret fluit
-4. Dextra fato tremor tendite melioris in tibi
-5. Oresteae quae
-
-Creatis imago; unda quin, *venerisque puppe* tabuerit indotata piceumque siccis
-spatiosumque iuvenes? Pascere quid quater prece et Serpens ibi nam
-[partes](http://si-super.org/): cupido insula protinus. Non [aquarum nec
-esset](http://fines.org/fit-sociare.html) postquam partimque quondam esse, aura.
-
-Habendum repperit quod; aera nota sed. Ora quae diu potuere sed multi pectore:
-quo te induerat ab haut ope. In nemus ipse cornua quoque, incandescit fecere
-sequens mundo mento erravit nunc simul villis erat ac
+I work on different aspects of dark matter physics, be it possible candidates, mechanisms for their production, various ways to detect them and identify their properties, etc.
