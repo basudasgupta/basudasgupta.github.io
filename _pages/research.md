@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 subtitle: Research
 ---
+The lives of stars, galaxies and the Universe are intimately tied to the behavior of their tiniest constituents, i.e., atoms and subatomic particles. One can discover more about one, by studying the other. Exploring this connection requires a little bit of knowledge of a lot of different things. 
 
-The key principle of **astroparticle physics** is that many features of stars, galaxies and the Universe are intimately tied to the behavior of their tiniest constituents, i.e., atoms and subatomic particles. One can discover more about one, by studying the other. Exploring this connection requires a little bit of knowledge of a lot of different things. In my work I try to learn more about stars, galaxies, the early Universe, neutrinos, dark matter, black holes, etc.
+In my work I try to learn more about stars, galaxies, the early Universe, neutrinos, dark matter, black holes, etc.
 
 ## My Publications
 
