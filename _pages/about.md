@@ -14,9 +14,9 @@ permalink: /about/
 </figure>
 {:/}
     
-<div class="lead lead-about">Let's face it, it's awkward to write about oneself. 
-    
-    Brace for the third-person-speak ...
+<div class="lead lead-about">
+Let's face it, it's awkward to write about oneself. 
+Brace for the third-person-speak ...
 </div>
     
 --    
