@@ -24,12 +24,12 @@ My publications are listed at [Google Scholar](https://scholar.google.co.in/cita
 
 *For Scientists*
 
-*Particle Physics at the Intensity Frontier, Kavli Frontiers of Science Symposium organised by US National Academy of Science at Irvine
+* Particle Physics at the Intensity Frontier, Kavli Frontiers of Science Symposium organised by US National Academy of Science at Irvine
 
 *For General Audiences*
 
-*Darkness at the Edge of Town, "Chai and Why?" Public Lecture at Prithvi Theatre
+* Darkness at the Edge of Town, "Chai and Why?" Public Lecture at Prithvi Theatre
  
-*Looking with Nu Eyes, New Vistas Public Lecture at Perkins Observatory
+* Looking with Nu Eyes, New Vistas Public Lecture at Perkins Observatory
 
 Email me if you want the slides to any of my other more technical talks, and I'll send you a copy. If you are thinking of inviting me for a talk, these should give you a fair idea of my expertise and overall style.
