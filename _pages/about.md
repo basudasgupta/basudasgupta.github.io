@@ -8,7 +8,11 @@ permalink: /about/
 
 <div class="pretty-links">
     
-{% image "bio_bw.png", "Basudeb Dasgupta - Photo" %}    
+{::nomarkdown} 
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/bio_bw.png">
+</figure>
+{:/}
     
 ## Brief Bio
     
