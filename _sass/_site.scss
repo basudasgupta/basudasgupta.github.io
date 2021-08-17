@@ -142,13 +142,13 @@
 }
 
 .site-contact li,
-.site-source li {
-
-  &:not(:last-child)::after {
-    content: '|';
-    color: $brand-light-color;
-    margin: 0 .3rem 0 $spacer0;
-  }
+//.site-source li {
+//
+//  &:not(:last-child)::after {
+//    content: '|';
+//    color: $brand-light-color;
+//    margin: 0 .3rem 0 $spacer0;
+// }
 }
 
 // SITE FOOTER - RESPONSIVE ------------------
@@ -159,10 +159,10 @@
     text-align: right;
   }
 
-  .site-source {
-    float: left;
-    width: 50%;
-  }
+//  .site-source {
+//    float: left;
+//    width: 50%;
+//  }
 }
 
 // SITE SELECTION ====================================
