@@ -8,10 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
     
-<div class="lead lead-about">Let's face it, writing about oneself in the third person is awkward. Here it goes...
-</div>
-    
-    <img src="/assets/img/bio_bw.png" width="300">
+{% image "bio_bw.png", "Basudeb Dasgupta - Photo" %}    
     
 ## Brief Bio
     
